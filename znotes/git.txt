@@ -1,5 +1,18 @@
 test 1
-git push -u origin test
-oijoijoijo
 
-okok new branch
+git add <filename>
+    adds file <filename> to working tree 
+git add .
+    adds all files to working tree
+
+git commit -m "your message here"
+    commits changes to create "save point" with custom message in ""
+
+git checkout -b <branch name>
+    create and switch to branch <branch name>
+
+git checkout <branch name>
+    switched to <branch name> branch
+
+
+
