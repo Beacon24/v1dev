@@ -1,5 +1,7 @@
 test 1
 
+git clone https://github.com/Beacon24/v1dev.git
+
 git add <filename>
     adds file <filename> to working tree 
 git add .
