@@ -16,6 +16,8 @@ git checkout -b <branch name>
 git checkout <branch name>
     switched to <branch name> branch
 
+git pull origin main
+
 
 
 merge conflict when pushing or pulling?
