@@ -18,3 +18,8 @@ git checkout <branch name>
 
 
 
+merge conflict when pushing or pulling?
+manually fix the file to make it correct
+git add .
+git commit - "change"
+
